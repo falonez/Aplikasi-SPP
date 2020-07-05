@@ -1,3 +1,4 @@
-# aplikasi-spp
+# Aplikasi-SPP
 Aplikasi SPP Hasil UJI KOMPETENSI SMK
-TAHUN 2020 ANGKATAN CORONA :)
+
+TAHUN 2020
